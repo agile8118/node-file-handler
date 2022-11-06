@@ -15,6 +15,15 @@ We have these available operations:
 - renaming a file
 - appending to a file
 
+And we should write the commands in the following formats in the command.txt file:
+
+- create a file \<path>
+- delete the file \<path>
+- rename the file \<path> to \<new-path>
+- add to the file \<path> this content: \<content>
+
+Note that we can only have and execute one command in the command.txt file at a time.
+
 To run the application, clone the repo and run the following:
 
 ```
